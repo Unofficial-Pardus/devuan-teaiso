@@ -1,6 +1,6 @@
 name: devuan
 hostname: devuan
-distro: devuan
+distro: debian
 codename: testing
 variant: minbase
 publisher: Devuan Linux <https://github.com/03tekno/>
