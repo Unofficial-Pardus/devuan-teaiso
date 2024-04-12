@@ -24,6 +24,7 @@ inxi
 wget
 synaptic
 cinnamon
+vlc
 printer-driver-all
 system-config-printer
 simple-scan
