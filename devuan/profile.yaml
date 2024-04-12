@@ -1,0 +1,21 @@
+name: devuan
+hostname: devuan
+distro: devuan
+codename: testing
+variant: minbase
+publisher: Devuan Linux <https://github.com/03tekno/>
+label: DEVUAN_LINUX
+application_id: Devuan Linux
+airootfs_directory_pre: airootfs
+linux_args: username=devuan hostname=devuan noswap quiet console=tty31
+#iso_merge: iso_merge
+grub_cfg: grub.cfg
+packages:
+ - packages.x86_64
+ - firmware.x86_64
+file_permissions:
+ - /etc/shadow|0:0:400
+customize_airootfs_pre:
+ - customize-airootfs.sh
+keyring_package: devuan-keyring
+repository: https://pkgmaster.devuan.org/merged
