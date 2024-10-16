@@ -1,3 +1,7 @@
-Devuan Testing Live ISO (Unofficial) - Teaiso
+## Devuan Testing Live ISO (Unofficial) - Teaiso
+ISO Features:
+Cinnamon Desktop
+17g live ISO installer
+Firefox latest version
+has been added.
 
-Update: 08/2024 - mobilturka
