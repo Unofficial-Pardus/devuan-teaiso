@@ -15,9 +15,7 @@ gnome-disk-utility
 baobab
 gnome-weather
 gnome-calendar
-gedit
 file-roller
-eog
 p7zip-full
 network-manager-gnome
 network-manager
@@ -25,8 +23,10 @@ blueman
 inxi
 wget
 synaptic
-cinnamon
 printer-driver-all
 system-config-printer
 simple-scan
+xfce4
+xfce4-goodies
+cinnamon
 --install-recommends
