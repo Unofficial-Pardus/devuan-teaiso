@@ -1,7 +1,7 @@
 ## Devuan Testing Live ISO (Unofficial) - Teaiso
 ISO Features:
 
-Cinnamon + Xfce Desktop
+Cinnamon desktop
 
 Extras:
 
