@@ -12,6 +12,8 @@ gnome-system-monitor
 gnome-calculator
 gnome-screenshot
 gnome-disk-utility
+gedit
+eog
 baobab
 gnome-weather
 gnome-calendar
@@ -26,7 +28,5 @@ synaptic
 printer-driver-all
 system-config-printer
 simple-scan
-xfce4
-xfce4-goodies
 cinnamon
 --install-recommends
