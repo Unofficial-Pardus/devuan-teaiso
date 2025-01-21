@@ -13,6 +13,6 @@ pardus-package-installer
 
 has been added.
 
-ISO download link:
+ISO download link: 
 https://github.com/03tekno/devuan-teaiso/releases/tag/current
 
