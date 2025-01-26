@@ -1,7 +1,7 @@
 ## Devuan Testing Live ISO (Unofficial) - Teaiso
 ISO Features:
 
-Cinnamon desktop
+Devuan (testing) Cinnamon desktop Edition
 
 Extras:
 
