@@ -6,14 +6,16 @@ linux-image-amd64
 lightdm
 lightdm-gtk-greeter
 gnome-terminal
+ristretto
+mousepad
+#gedit
+#eog
 gvfs-backends
 xdg-user-dirs
 gnome-system-monitor
 gnome-calculator
 gnome-screenshot
 gnome-disk-utility
-gedit
-eog
 baobab
 gnome-weather
 gnome-calendar
@@ -29,4 +31,6 @@ printer-driver-all
 system-config-printer
 simple-scan
 cinnamon
+fuse
+libfuse2
 --install-recommends
