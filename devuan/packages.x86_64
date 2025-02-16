@@ -33,4 +33,6 @@ simple-scan
 cinnamon
 fuse
 libfuse2
+papirus-icon-theme
+orchis-gtk-theme
 --install-recommends
