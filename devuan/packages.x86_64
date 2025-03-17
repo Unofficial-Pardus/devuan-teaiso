@@ -30,6 +30,10 @@ synaptic
 printer-driver-all
 system-config-printer
 simple-scan
+pavucontrol
+pipewire
+wireplumber
+pipewire-pulse
 cinnamon
 fuse
 libfuse2
