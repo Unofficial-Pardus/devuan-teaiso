@@ -16,6 +16,7 @@ yes | apt install wget
 
 wget https://github.com/03tekno/debhane/raw/main/17g-installer_1.0_all.deb
 wget https://github.com/03tekno/debhane/raw/main/pardus-package-installer_0.6.1_all.deb
+wget https://github.com/03tekno/debhane/raw/main/pipewire-launcher_1.0.0_all.deb
 yes | apt install ./*.deb -yq --allow-downgrades
 
 install -d -m 0755 /etc/apt/keyrings
