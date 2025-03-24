@@ -6,6 +6,8 @@ xserver-xorg
 linux-image-amd64
 lightdm
 lightdm-gtk-greeter
+plymouth
+plymouth-themes
 gnome-terminal
 ristretto
 mousepad
