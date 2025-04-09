@@ -34,11 +34,6 @@ synaptic
 printer-driver-all
 system-config-printer
 simple-scan
-pipewire
-pipewire-alsa
-pipewire-audio
-wireplumber
-pipewire-pulse
 cinnamon
 fuse
 libfuse2
