@@ -39,4 +39,5 @@ fuse
 libfuse2
 papirus-icon-theme
 orchis-gtk-theme
+parole
 --install-recommends
